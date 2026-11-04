@@ -2,5 +2,5 @@
 // Substitui SOMENTE a chave abaixo pela Publishable key do projeto Training.
 window.HOME_WORKOUT_CONFIG = {
   url: "https://zuqkonnohongdrjslnhv.supabase.co",
-  key: "COLE_AQUI_SUA_CHAVE_sb_publishable_"
+  key: "sb_publishable_syFmTT4r9c22j0yyA9DwRQ_TiSWZA8i"
 };
